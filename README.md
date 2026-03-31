@@ -120,7 +120,7 @@ Jungle-Jumper/
 
 ## 👨‍💻 Developer
 
-Developed by Kingo
+Developed by Arda Esnaf
 Computer Engineering Student
 
 ---
