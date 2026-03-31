@@ -121,6 +121,7 @@ Jungle-Jumper/
 ## 👨‍💻 Developer
 
 Developed by Arda Esnaf
+
 Computer Engineering Student
 
 ---
